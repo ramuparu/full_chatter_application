@@ -1,0 +1,23 @@
+{
+  "name": "full_chatter_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramuparu/full_chatter_application.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramuparu/full_chatter_application/issues"
+  },
+  "homepage": "https://github.com/ramuparu/full_chatter_application#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
